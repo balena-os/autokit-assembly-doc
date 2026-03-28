@@ -1,4 +1,28 @@
 - commits:
+    - subject: add micro sd card to BoM
+      hash: 4db5e943c9c28d901d2dfabca5c72db874ad2355
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+    - subject: update number of schuko connectors
+      hash: d6520c2fd184a51592a39eb5d0aacb4271add13c
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Ryan Cooke <ryan@balena.io>
+        signed-off-by: Ryan Cooke <ryan@balena.io>
+      author: rcooke-warwick
+      nested: []
+  version: 0.0.7
+  title: ""
+  date: 2026-03-28T01:35:40.295Z
+- commits:
     - subject: update bom
       hash: 3a0a118fbf900a35d8f8a8e9e61b49693380cb41
       body: ""
