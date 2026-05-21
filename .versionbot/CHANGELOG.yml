@@ -1,4 +1,22 @@
 - commits:
+    - subject: unpin flowzone, track @master
+      hash: e43e6a3bfa8b4600249680a857f7d9e0a3a53cf7
+      body: |
+        renovate pinned this to a sha by accident, config is fixed now. dropping
+        the `# master` comment since the ref self-documents.
+
+        See: https://balena.fibery.io/Security/Information_Security_and_Reliability_Incident/Renovate-infinite-pinning-actions-PRs-198
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 0.0.8
+  title: ""
+  date: 2026-05-21T18:01:59.742Z
+- commits:
     - subject: add micro sd card to BoM
       hash: 4db5e943c9c28d901d2dfabca5c72db874ad2355
       body: ""
